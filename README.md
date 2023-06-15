@@ -1,5 +1,5 @@
 # C23-PS388 [Rewaste]
-
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/elokwashi/Rewaste-Capstone/7acbcb4958246015948b1abaa26c3357aebfbf5b/ReWaste.png" >
 </p>
@@ -20,3 +20,8 @@ Waste Classifier Application that can be implemented to android devices  to clas
 | Muhammad Sayyidin Hawibowo     | A185DSX3097 | Mobile Development | Universitas Islam Indonesia         | <a href="https://www.linkedin.com/in/msayyidinh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
 
 ## Documentation
+## Mobile Development
+We using the [Kotlin programming language](https://kotlinlang.org/) to develop applications, also using [Retrofit](https://square.github.io/retrofit/) to handle all data connection from android to the API. Using [Tensor Flow Lite](https://www.tensorflow.org/lite) to implement machine learning model to the application.
+## Machine Learning
+
+## Cloud Computing
