@@ -28,7 +28,7 @@ Waste Classifier Application that can be implemented to android devices  to clas
 	<img src="https://github.com/elokwashi/Rewaste-Capstone/blob/main/Classification.png" width="25%">
 </p>
 
-We using the [Kotlin programming language](https://kotlinlang.org/) to develop applications, also using [Retrofit](https://square.github.io/retrofit/) to handle all data connection from android to the API. Using [Tensor Flow Lite](https://www.tensorflow.org/lite) to implement machine learning model to the application. Here is the link to download the [APK]([https://square.github.io/retrofit/](https://drive.google.com/file/d/1cgoo9bAqS7onkz1kUhacV_gpUZQNGYoD/view?usp=sharing)) file.
+We using the [Kotlin programming language](https://kotlinlang.org/) to develop applications, also using [Retrofit](https://square.github.io/retrofit/) to handle all data connection from android to the API. Using [Tensor Flow Lite](https://www.tensorflow.org/lite) to implement machine learning model to the application. Here is the link to download the [APK]((https://drive.google.com/file/d/1cgoo9bAqS7onkz1kUhacV_gpUZQNGYoD/view?usp=sharing)) file.
 ### Step to Preview and Open the Project
 1. Download the project zip from Mobile Development file. We use git LFS because app file was more than 100mb.
 2. Extract it.
