@@ -20,8 +20,11 @@ Waste Classifier Application that can be implemented to android devices  to clas
 | Muhammad Sayyidin Hawibowo     | A185DSX3097 | Mobile Development | Universitas Islam Indonesia         | <a href="https://www.linkedin.com/in/msayyidinh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
 
 ## Documentation
-## Mobile Development
+### Mobile Development
 We using the [Kotlin programming language](https://kotlinlang.org/) to develop applications, also using [Retrofit](https://square.github.io/retrofit/) to handle all data connection from android to the API. Using [Tensor Flow Lite](https://www.tensorflow.org/lite) to implement machine learning model to the application.
-## Machine Learning
+#### UI/UX Design
+We using Figma to Design User Interface and User Experience, here is the  [design](https://www.figma.com/file/fcVDZYTG1qBFnEQudKMSxl/Rewaste?type=design&node-id=4%3A3&t=mfF54O2BwmQ6xD5q-1)
 
-## Cloud Computing
+### Machine Learning
+
+### Cloud Computing
