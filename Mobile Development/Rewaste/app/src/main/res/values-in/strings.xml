@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CapstoneDuaSatu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="hint1">untuk mengakses aplikasi!</string>
+    <string name="email">Email</string>
+    <string name="hint_email">Masukkan Email Anda...</string>
+    <string name="kata_sandi">Kata sandi</string>
+    <string name="hint_password">Masukkan Password Anda...</string>
+    <string name="hint_daftar">Belum memiliki akun? Daftar</string>
+    <string name="deteksi">Deteksi</string>
+    <string name="camera">Tambah Gambar</string>
+    <string name="dark_mode">Mode gelap</string>
+    <string name="hint2">untuk memperoleh akun!</string>
+    <string name="nama">Nama</string>
+    <string name="hint_nama">Masukkan nama lengkap</string>
+    <string name="hint_login">Sudah memiliki akun? Login</string>
+    <string name="Home">Home</string>
+    <string name="profile">My Profile</string>
+    <string name="desc_image">image profile</string>
+    <string name="theme">Theme</string>
+    <string name="language">Bahasa</string>
+    <string name="hint_language">Bahasa telepon</string>
+    <string name="logout">Logout</string>
+    <string name="searchview">Cari artikel...</string>
+    <string name="gallery">GALLERY</string>
+    <string name="add_desc">Tambahkan deskripsi...</string>
+    <string name="hint_judul">Tambahkan Judul...</string>
+    <string name="upload">UPLOAD</string>
+    <string name="about">Tentang</string>
+    <string name="about_us">Tentang</string>
+</resources>
