@@ -47,10 +47,16 @@ We using Figma to Design User Interface and User Experience, here is the  [desig
 API built with [Node.js](https://nodejs.org/en), [Express.js](http://expressjs.com/), [Google Cloud Run (GCP)](https://cloud.google.com/run), and [MongoDB](https://www.mongodb.com/). This project showcases an efficient solution for creating high-performance APIs with seamless integration of these advanced technologies.
 
 ### Prerequisites
-
 - Node.js and npm (Node Package Manager) installed on your machine.
 - A Google Cloud Platform (GCP) account with Cloud Run service enabled.
 - MongoDB set up and running.
+
+### API Usage
+The API offers a range of endpoints for seamless interaction with MongoDB as a database. Some of the endpoints include:
+GET /api/v1: Retrieves a specific resource.
+POST /api/v1: Creates a new resource.
+PUT /api/v1/:id: Updates an existing resource identified by the provided ID.
+DELETE /api/v1/:id: Deletes the resource identified by the provided ID.
 
 ### API Documentation
 For API documentation, see the following link [Restful APIs ReWaste](https://github.com/elokwashi/Rewaste-Capstone/blob/main/Cloud%20Computing/README.md)
