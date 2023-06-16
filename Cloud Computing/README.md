@@ -2,10 +2,12 @@
 Utilizing the capabilities of cloud computing and the reliability of GCP, we have built an optimized APIs using Node.js and Express.js, delivering outstanding performance and unlimited scalability. In addition, we utilize MongoDB, a highly flexible and scalable NoSQL database. MongoDB provides a document-oriented data model that aligns with the API development requirements.
 
 
-# Documentation
+## API URL
+[Destinations API](https://trash-bfj2j76g2q-et.a.run.app)
+## Documentation
 
 
-## Sign Up
+### Sign Up
 
 - Method: POST
 - Url: /api/v1/auth/signup
@@ -22,7 +24,7 @@ Utilizing the capabilities of cloud computing and the reliability of GCP, we hav
 }
 ```
 
-## Sign In
+### Sign In
 
 - Method: POST
 - Url: /api/v1/auth/signin
@@ -44,9 +46,9 @@ Utilizing the capabilities of cloud computing and the reliability of GCP, we hav
 ```
 <br>
 
-## Profile
+### Profile
 
-### Post Profile
+#### Post Profile
 - Method: POST
 - Url: /api/v1/users/profile/images
 - Headers
@@ -69,7 +71,7 @@ Utilizing the capabilities of cloud computing and the reliability of GCP, we hav
     }
 }
 ```
-### Get Profile
+#### Get Profile
 
 - Method: GET
 - Url: /api/v1/users/profile
@@ -93,9 +95,9 @@ Utilizing the capabilities of cloud computing and the reliability of GCP, we hav
 }
 ```
 
-## Upload Image Article
+### Upload Image Article
 
-### Get Image Article
+#### Get Image Article
 
 - Method: GET
 - Url: /api/v1/articles/upload
@@ -116,9 +118,9 @@ Utilizing the capabilities of cloud computing and the reliability of GCP, we hav
 }
 ```
 
-## Article
+### Article
 
-### Post Article 
+#### Post Article 
 
 - Method: POST
 - Url: /api/v1/articles
@@ -138,7 +140,7 @@ Utilizing the capabilities of cloud computing and the reliability of GCP, we hav
 }
 ```
 
-### Get Article
+#### Get Article
 
 - Method: GET
 - Url: /api/v1/articles
