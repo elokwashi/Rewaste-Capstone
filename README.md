@@ -44,7 +44,7 @@ We using Figma to Design User Interface and User Experience, here is the  [desig
 ## Machine Learning
 
 ## Cloud Computing
-API built with [Node.js](https://nodejs.org/en), [Express.js](http://expressjs.com/), [Google Cloud Run(GCP)](https://cloud.google.com/run), and [MongoDB](https://www.mongodb.com/). This project showcases an efficient solution for creating high-performance APIs with seamless integration of these advanced technologies.
+API built with [Node.js](https://nodejs.org/en), [Express.js](http://expressjs.com/), [Google Cloud Run (GCP)](https://cloud.google.com/run), and [MongoDB](https://www.mongodb.com/). This project showcases an efficient solution for creating high-performance APIs with seamless integration of these advanced technologies.
 
 ### Prerequisites
 
