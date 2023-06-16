@@ -42,6 +42,15 @@ We using Figma to Design User Interface and User Experience, here is the  [desig
 4. Profile(Privacy and Settings).
 5. Localization.
 ## Machine Learning
+The Machine Learning model for Multi-Class Image Classification is created by using Transfer Learning Deep CNN Method. The model architecture for transfer learning are VGG16, ResNet50, and InceptionV3. To execute efficiently on devices, the model is converted into TensorFlow Lite model.
+
+### Library Prerequisites
+- Cv2
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Tensorflow
+- Collection 
 
 ## Cloud Computing
 API built with [Node.js](https://nodejs.org/en), [Express.js](http://expressjs.com/), [Google Cloud Run (GCP)](https://cloud.google.com/run), and [MongoDB](https://www.mongodb.com/). This project showcases an efficient solution for creating high-performance APIs with seamless integration of these advanced technologies.
